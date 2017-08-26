@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+  padding: 0;
+}
+.font {
+	position: absolute;
+	background-color: grey;
+	width: inherit;
+	overflow: inherit;
+}
+.word_h1 {
+  font-family: "San6";
+  font-size: 65px;
+  line-height: 75px;
+}
+h2 {
+	font-family: "San5";
+	font-size: 50px;
+  line-height: 60px;
+}
+h3 {
+	font-family: "San4";
+	font-size: 35px;font-size
+  line-height: 45px;
+}
+h4 {
+	font-family: "San3";
+	font-size: 15px;
+  line-height: 28px;
+  letter-spacing: 0.667em;
+}
+.navigation {
+	font-family: "San4";
+	font-size: 13px;
+  line-height: 23px;
+}
+.words_at_bg {
+	font-family: "San3";
+	font-size: 500px;
+  letter-spacing: 0.020px;
+}
+.additional_text {
+	font-family: "San5";
+	font-size: 12px;
+  line-height: 20px;
+}
+.regular_text {
+	font-family: "San4";
+	font-size: 15px;
+  line-height: 25px;
+}
