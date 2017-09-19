@@ -1,0 +1,56 @@
+/**
+ * http://rvrsrec.ru/
+ * https://jsfiddle.net/xq56dmrh/
+ */
+
+/** Ultra Light */
+@font-face {
+  font-family: "San";
+  font-weight: 100;
+  src: url("font/SF-UI-Display-Black.ttf");
+  src: url("font/SF-UI-Display-Black.otf");
+}
+
+/** Thin */
+@font-face {
+  font-family: "San";
+  font-weight: 200;
+  src: url("font/sanfranciscodisplay-thin-webfont.woff");
+  src: url("font/SF-UI-Display-Thin.otf");
+  src: url("font/SF-UI-Display-Thin.ttf");
+}
+
+/** Regular */
+@font-face {
+  font-family: "San";
+  font-weight: 400;
+  src: url("font/sanfranciscodisplay-regular-webfont.woff");
+  src: url("font/SF-UI-Display-Regular.otf")
+  src: url("font/SF-UI-Display-Regular.ttf")
+}
+
+/** Medium */
+@font-face {
+  font-family: "San";
+  font-weight: 500;
+  src: url("font/SF-UI-Display-Black.ttf");
+  src: url("font/SF-UI-Display-Black.otf");
+}
+
+/** Semi Bold */
+@font-face {
+  font-family: "San";
+  font-weight: 600;
+  src: url("font/SF-UI-Display-Bold.ttf");
+  src: url("font/SF-UI-Display-Bold.otf");
+  src: url("font/sanfranciscodisplay-bold-webfont.woff")
+}
+
+/** Bold */ 
+@font-face {
+  font-family: "San";
+  font-weight: 700;
+  src: url("font/SF-UI-Display-Bold.ttf");
+  src: url("font/SF-UI-Display-Bold.otf");
+  src: url("font/sanfranciscodisplay-bold-webfont.woff")
+}
